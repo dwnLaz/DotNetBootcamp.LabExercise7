@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r18k99x4EYODgzBtF1TiPDUQApXAuQ9WtLYFwn0FIcAKzoscLNWQsHM512y56cCNSPTTJ7AZ1Cwqz9pBv13Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dayle.villanda\\Documents\\Github\\pointwest-files\\BackEnd\\C#\\CSharp.LabExercise7\\CSharp.LabExercise7\\CSharp.LabExercise7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayle.villanda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
